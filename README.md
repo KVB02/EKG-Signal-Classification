@@ -16,7 +16,9 @@ Matplotlib: For generating visualizations of the data and results.
 To get started with the project, clone the repository and install the required dependencies:
 
 git clone https://github.com/KVB02/EKG-Signal-Classification.git
+
 cd EKG-Signal-Classification
+
 pip install -r requirements.txt
 
 ## Usage
