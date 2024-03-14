@@ -7,8 +7,11 @@ This project applies neural networks to classify EKG signals, aiming to automate
 ## Technologies Used
 
 Python: The primary programming language for implementing the neural network model.
+
 NumPy: For efficient numerical computations.
+
 Pandas: For data manipulation and analysis.
+
 Matplotlib: For generating visualizations of the data and results.
 
 ## Installation
